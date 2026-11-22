@@ -1,3 +1,12 @@
+# 26.11.1 (plugin)
+
+- Compact dialer on screens under 600 dp high: status in the header, smaller keys, Call beside the number. The whole keypad fits on a 480 × 480 panel.
+- The number field no longer cuts off the digits at the top.
+- New command **Dial a number**: `ks://plugin/kiosk-satellite-sip/dial/NUMBER` or `runPluginCommand` with `args`. Without a number it opens the dialer.
+- Home Assistant text sensors **Call state** and **Call peer** (capability `entities`).
+- With **Screen side** left, the phone button now sits on the left.
+- Requires Kiosk Satellite 2026.11.16 or later.
+
 # 26.10.18
 
 - Support numeric SIP device extensions with 1–79 digits, including 6000–6299, in the plugin and gateway.

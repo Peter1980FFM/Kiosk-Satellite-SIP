@@ -22,6 +22,7 @@ Versions use the year.month.update format, for example `26.10.1`. Git tags inclu
 | [26.10.16](https://github.com/Eibelucas/Kiosk-Satellite-SIP/releases/tag/v26.10.16) | Wake word mute coordination, PBX-only RTP, English/German UI, and clearer plugin name |
 
 | [26.10.18](https://github.com/Eibelucas/Kiosk-Satellite-SIP/releases/tag/v26.10.18) | Configurable numeric SIP extensions, gateway administration workspace and preserved existing configuration |
+| [26.11.1](https://github.com/Peter1980FFM/Kiosk-Satellite-SIP/releases/tag/v26.11.1) | Compact dialer on small screens, dial command with a number (dashboard link, remote API), call state and peer sensors, phone button on the left side |
 
 ## Installing and updating
 
