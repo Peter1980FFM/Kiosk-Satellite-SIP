@@ -1,3 +1,7 @@
+# 26.11.2 (plugin)
+
+- After a call ends, the dialer hides itself and clears the number after 3 s (10 s after an error), unless a new call starts or you type in the meantime.
+
 # 26.11.1 (plugin)
 
 - Compact dialer on screens under 600 dp high: status in the header, smaller keys, Call beside the number. The whole keypad fits on a 480 × 480 panel.
