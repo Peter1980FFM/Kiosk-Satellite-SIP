@@ -1,3 +1,7 @@
+# 26.11.3 (plugin)
+
+- New command **Answer call**, so an incoming call can be answered from Home Assistant or a dashboard. **Hang up call** declines a ringing call.
+
 # 26.11.2 (plugin)
 
 - After a call ends, the dialer hides itself and clears the number after 3 s (10 s after an error), unless a new call starts or you type in the meantime.
